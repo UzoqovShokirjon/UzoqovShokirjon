@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UzoqovShokirjon
-- 👀 I’m interested in  dasturlash
-- 🌱 I’m currently learning python dasturlash tilini
+- 👀 I’m interested in programming
+- 🌱 i am currently learning python programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
